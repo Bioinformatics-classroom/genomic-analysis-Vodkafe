@@ -29,16 +29,18 @@
 ### Q4
 * La notation génomique de cette variation est NC_000023.10:g.595474G>C
 ### Q5
-* NC_000023 donne le numéro du transcrit
+*  NC sugnifie complete genomic molecules
+* 000023 donne le numéro du chromosome (X)
 * .10 signifie que c'est la 10e version de la variation
 * g. signifie que c'est le génome de référence
-* 595474G>C signiofie que la 595474e base a été changé de G en C
+* 595474G>C signifie que la 595474e base a été changé de G en C
 ### Q6
 * La notation protéique de cette variation est NM_000451.3(SHOX_i001):p.(Glu133Asp)
 ### Q7
-* NM_000451 donne le numéro du transcrit
+* NM signifie mRNA
+* 000451 donne le numéro du transcrit
 * .3 signifie que c'est la 3e version de la variation
-* (SHOX_i001) désiqgne le gène impliquer, le gène SHOX
+* (SHOX_i001) désiqgne le gène impliqué, le gène SHOX et son numéro d'isoforme
 * p. signifie que c'est la protéine de référence
 * (Glu133Asp) signifie qu'un acide glutamique en position 133 a été remplcé par un acide aspartique
 ### Q8
@@ -46,5 +48,19 @@
 ### Q9
 * (http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chrX%3A595464%2D595484&hgsid=669218387_kUmo4aKUXGgunuHdD8o2DsEVV7EW)
 ### Q10
-*  
+* C'est le brin sens
+### Q11
+* Il y a 6 exons
+### Q12
+* Il se trouve dans le 3ème exon
+### Q13
+* Le variant se trouve dans une région relativement peu conservée
+### Q14
+* Il s'agit du homebox domain
+### Q15
+* (https://www.ncbi.nlm.nih.gov/pubmed/28629824)
+* (https://www.ncbi.nlm.nih.gov/pubmed/27814343)
+* (https://www.ncbi.nlm.nih.gov/pubmed/27861128)
+### Q16
+* (http://grch37.ensembl.org/Homo_sapiens/Tools/VEP/Results?db=core;tl=ypzBYTcTad7f3jrT-4193827)
 
