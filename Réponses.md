@@ -21,8 +21,30 @@
 * NC_000018.9:g. 53331929C>A est le variant qui mérite une étude le plus approfondi, en effet, c'est celui qui a un impact protéique le plus probable, donc celui qui a le plus de chance d'induire une maladie de PITT-HOPKINS.
 ## Exercice 2
 ### Q1
-* item1
-* item2
-* item3
+* La variation se trouve sur le chromosome X
 ### Q2
-[NM_001083962.1:c.1957_1958delTC in UCSC](http://example.com)
+* Langer mesomelic dysplasia / Leri-Weill dyschondrosteosis /Short stature, idiopathic familial
+### Q3
+* SHOX serait la raison de la petite taille des patients atteint de la maladie de Turner.
+### Q4
+* La notation génomique de cette variation est NC_000023.10:g.595474G>C
+### Q5
+* NC_000023 donne le numéro du transcrit
+* .10 signifie que c'est la 10e version de la variation
+* g. signifie que c'est le génome de référence
+* 595474G>C signiofie que la 595474e base a été changé de G en C
+### Q6
+* La notation protéique de cette variation est NM_000451.3(SHOX_i001):p.(Glu133Asp)
+### Q7
+* NM_000451 donne le numéro du transcrit
+* .3 signifie que c'est la 3e version de la variation
+* (SHOX_i001) désiqgne le gène impliquer, le gène SHOX
+* p. signifie que c'est la protéine de référence
+* (Glu133Asp) signifie qu'un acide glutamique en position 133 a été remplcé par un acide aspartique
+### Q8
+* C'est une mutation faux-sens.
+### Q9
+* (http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chrX%3A595464%2D595484&hgsid=669218387_kUmo4aKUXGgunuHdD8o2DsEVV7EW)
+### Q10
+* 
+
