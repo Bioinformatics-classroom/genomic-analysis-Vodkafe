@@ -73,4 +73,4 @@
 * DOI:10.1038/gim.2015.30
 * (https://www.ncbi.nlm.nih.gov/pubmed/25741868)
 ### Q21
-* <img align="left" width="100" height="100" src="https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=4544753_nihms697486f1.jpg">
+* <img align="left" width="100" height="100" src="https://www.ncbi.nlm.nih.gov/corecgi/tileshop/tileshop.fcgi?p=PMC3&id=624522&s=53&r=2&c=2">
