@@ -63,4 +63,14 @@
 * (https://www.ncbi.nlm.nih.gov/pubmed/27861128)
 ### Q16
 * (http://grch37.ensembl.org/Homo_sapiens/Tools/VEP/Results?db=core;tl=ypzBYTcTad7f3jrT-4193827)
-
+### Q17
+* Il y a les séquences ensembl et Refseq, de plus certaines séquences sont calculées par la bioinformatique (XR_247282.1)
+### Q18
+* Fait
+### Q19
+* (http://wannovar.wglab.org/done/159926/8Sm8fwsqnJapijsJ/index.html)
+### Q20
+* DOI:10.1038/gim.2015.30
+* (https://www.ncbi.nlm.nih.gov/pubmed/25741868)
+### Q21
+* <img align="left" width="100" height="100" src="https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=4544753_nihms697486f1.jpg">
